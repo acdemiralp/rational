@@ -1,5 +1,8 @@
 ### Rational
-Implementation of the (not yet written) std::experimental::rational proposal.
+Implementation of the std::experimental::rational proposal for the C++ standard library.
+
+### Standard Proposal
+See [`proposal.md`](proposal.md) for the complete C++ standardization proposal document for adding `<rational>` to the standard library.
 
 ### Getting started
 - Copy `include/std/experimental/rational.hpp` to your project.
